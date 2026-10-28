@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/ocean-banner.gif" width="100%" alt="Cat watching the ocean" />
+<img src="ocean-banner.gif" width="100%" alt="Cat watching the ocean" />
 
 <br/><br/>
 
